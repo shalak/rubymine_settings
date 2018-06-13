@@ -1,7 +1,7 @@
 <application>
   <component name="UISettings">
-    <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
-    <option name="EDITOR_TAB_LIMIT" value="100" />
+    <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
+    <option name="EDITOR_TAB_LIMIT" value="25" />
     <option name="EDITOR_TAB_PLACEMENT" value="4" />
     <option name="FONT_SCALE" value="0.75" />
     <option name="FONT_SIZE" value="14" />
