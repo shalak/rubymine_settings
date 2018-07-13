@@ -1,0 +1,22 @@
+<keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
+  <action id="ChangeSignature" />
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl f6" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+  </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
+  <action id="Debugger.ResumeThread" />
+  <action id="NextDiff" />
+  <action id="Resume" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="StepInto" />
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
+</keymap>
