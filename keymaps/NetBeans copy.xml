@@ -13,6 +13,9 @@
     <keyboard-shortcut first-keystroke="alt f6" />
   </action>
   <action id="Debugger.ResumeThread" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
   <action id="NextDiff" />
   <action id="Resume" />
   <action id="Run">
@@ -21,7 +24,14 @@
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="alt f5" />
   </action>
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="shift ctrl alt j" />
+    <keyboard-shortcut first-keystroke="alt f3" />
+  </action>
   <action id="StepInto" />
+  <action id="Vcs.Log.GoToRef">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
   <action id="Vcs.RollbackChangedLines">
     <keyboard-shortcut first-keystroke="ctrl alt z" />
     <keyboard-shortcut first-keystroke="shift ctrl alt z" />
