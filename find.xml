@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../.venv/py3/lib/python3.6/site-packages/pc_ble_driver_py/lib/linux/x86_64/pc_ble_driver_sd_api_v5.py [kng-verification]'" />
-    <option name="defaultScopeName" value="File '.../.venv/py3/lib/python3.6/site-packages/pc_ble_driver_py/lib/linux/x86_64/pc_ble_driver_sd_api_v5.py [kng-verification]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../.venv/py3/lib/python3.6/site-packages/pc_ble_driver_py/lib/linux/x86_64/pc_ble_driver_sd_api_v5.py [kng-verification]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
