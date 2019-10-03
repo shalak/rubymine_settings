@@ -107,13 +107,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/10.0.2" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/byebug-10.0.2/exe" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/byebug-10.0.2/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/byebug-10.0.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/10.0.2" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/byebug-10.0.2/exe" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/byebug-10.0.2/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/byebug-10.0.2/lib" />
@@ -347,7 +345,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.18" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/ffi-1.9.18-x64-mingw32/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/ffi-1.9.18-x64-mingw32/gen" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/ffi-1.9.18-x64-mingw32/lib" />
@@ -355,7 +352,6 @@
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/ffi-1.9.18-x64-mingw32/libtest" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.18" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/ffi-1.9.18-x64-mingw32/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/ffi-1.9.18-x64-mingw32/gen" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/ffi-1.9.18-x64-mingw32/lib" />
@@ -533,7 +529,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.1.0" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/json-2.1.0/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/json-2.1.0/lib" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/json-2.1.0/data" />
@@ -544,7 +539,6 @@
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/json-2.1.0/references" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.1.0" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/json-2.1.0/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/json-2.1.0/lib" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/json-2.1.0/data" />
@@ -750,7 +744,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.1" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1-x64-mingw32/bin" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1-x64-mingw32/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1-x64-mingw32/lib" />
@@ -760,7 +753,6 @@
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1-x64-mingw32/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.1" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1-x64-mingw32/bin" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1-x64-mingw32/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1-x64-mingw32/lib" />
@@ -783,14 +775,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/oj/3.6.6" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/oj-3.6.6/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/oj-3.6.6/lib" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/oj-3.6.6/test" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/oj-3.6.6/pages" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/oj/3.6.6" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/oj-3.6.6/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/oj-3.6.6/lib" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/oj-3.6.6/test" />
