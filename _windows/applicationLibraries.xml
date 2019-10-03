@@ -783,12 +783,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/oj/3.6.6" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/oj-3.6.6/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/oj-3.6.6/lib" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/oj-3.6.6/test" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/oj-3.6.6/pages" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/oj/3.6.6" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/oj-3.6.6/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/oj-3.6.6/lib" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/oj-3.6.6/test" />
@@ -1077,6 +1079,17 @@
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rest-client-2.0.0-x64-mingw32/spec" />
       </excluded>
     </library>
+    <library name="rspec (v3.4.0, ruby-2.4.9-p362) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-3.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-3.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-core (v3.4.3, ruby-2.4.9-p362) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1093,6 +1106,28 @@
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-core-3.4.3/exe" />
       </excluded>
     </library>
+    <library name="rspec-expectations (v3.4.0, ruby-2.4.9-p362) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-expectations-3.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-expectations-3.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-mocks (v3.4.1, ruby-2.4.9-p362) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-mocks-3.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-mocks-3.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-support (v3.4.1, ruby-2.4.9-p362) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1102,6 +1137,88 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rspec-support-3.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubocop (v0.40.0, ruby-2.4.9-p362) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rubocop-0.40.0/bin" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rubocop-0.40.0/lib" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rubocop-0.40.0/spec" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rubocop-0.40.0/assets" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rubocop-0.40.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rubocop-0.40.0/bin" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rubocop-0.40.0/lib" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rubocop-0.40.0/spec" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rubocop-0.40.0/assets" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rubocop-0.40.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rubocop-0.40.0/bin" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rubocop-0.40.0/spec" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rubocop-0.40.0/assets" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rubocop-0.40.0/config" />
+      </excluded>
+    </library>
+    <library name="ruby-progressbar (v1.8.0, ruby-2.4.9-p362) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/ruby-progressbar-1.8.0/lib" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/ruby-progressbar-1.8.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/ruby-progressbar-1.8.0/lib" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/ruby-progressbar-1.8.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/ruby-progressbar-1.8.0/spec" />
+      </excluded>
+    </library>
+    <library name="rubyzip (v1.2.0, ruby-2.4.9-p362) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rubyzip-1.2.0/lib" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rubyzip-1.2.0/test" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rubyzip-1.2.0/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rubyzip-1.2.0/lib" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rubyzip-1.2.0/test" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rubyzip-1.2.0/samples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rubyzip-1.2.0/test" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/rubyzip-1.2.0/samples" />
+      </excluded>
+    </library>
+    <library name="selenium-webdriver (v2.52.0, ruby-2.4.9-p362) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/selenium-webdriver-2.52.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/selenium-webdriver-2.52.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="teamcity_formatter (v0.8.1, ruby-2.4.9-p362) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/teamcity_formatter-0.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/teamcity_formatter-0.8.1/lib" />
       </SOURCES>
     </library>
     <library name="test-unit (v3.2.3, ruby-2.4.9-p362) [gem]" type="rubylib">
@@ -1159,6 +1276,57 @@
       <excluded>
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/unf_ext-0.0.7.2-x64-mingw32/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/unf_ext-0.0.7.2-x64-mingw32/test" />
+      </excluded>
+    </library>
+    <library name="unicode-display_width (v1.0.5, ruby-2.4.9-p362) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/unicode-display_width-1.0.5/lib" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/unicode-display_width-1.0.5/data" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/unicode-display_width-1.0.5/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/unicode-display_width-1.0.5/lib" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/unicode-display_width-1.0.5/data" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/unicode-display_width-1.0.5/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/unicode-display_width-1.0.5/data" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/unicode-display_width-1.0.5/spec" />
+      </excluded>
+    </library>
+    <library name="websocket (v1.2.2, ruby-2.4.9-p362) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/websocket-1.2.2/lib" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/websocket-1.2.2/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/websocket-1.2.2/lib" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/websocket-1.2.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/websocket-1.2.2/spec" />
+      </excluded>
+    </library>
+    <library name="wremit (v1.0.1, ruby-2.4.9-p362) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/wremit-1.0.1/bin" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/wremit-1.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/wremit-1.0.1/bin" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/wremit-1.0.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/wremit-1.0.1/bin" />
       </excluded>
     </library>
     <library name="xmlrpc (v0.2.1, ruby-2.4.9-p362) [gem]" type="rubylib">
