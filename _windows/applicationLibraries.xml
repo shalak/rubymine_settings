@@ -1200,6 +1200,24 @@
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/selenium-webdriver-2.52.0/lib" />
       </SOURCES>
     </library>
+    <library name="table_print (v1.5.6, ruby-2.4.9-p362) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/table_print-1.5.6/lib" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/table_print-1.5.6/spec" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/table_print-1.5.6/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/table_print-1.5.6/lib" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/table_print-1.5.6/spec" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/table_print-1.5.6/features" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/table_print-1.5.6/spec" />
+      </excluded>
+    </library>
     <library name="teamcity_formatter (v0.8.1, ruby-2.4.9-p362) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
