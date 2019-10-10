@@ -354,6 +354,22 @@
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/cucumber-wire-0.0.1/spec" />
       </excluded>
     </library>
+    <library name="daemons (v1.3.1, ruby-2.4.9-p362) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/daemons-1.3.1/lib" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/daemons-1.3.1/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/daemons-1.3.1/lib" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/daemons-1.3.1/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/daemons-1.3.1/examples" />
+      </excluded>
+    </library>
     <library name="debase (v0.2.4.1, ruby-2.4.9-p362) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -473,6 +489,37 @@
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/domain_name-0.5.20160615/data" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/domain_name-0.5.20160615/test" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/domain_name-0.5.20160615/tool" />
+      </excluded>
+    </library>
+    <library name="eventmachine (v1.2.7, ruby-2.4.9-p362) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.7-x64-mingw32/ext" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.7-x64-mingw32/lib" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.7-x64-mingw32/docs" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.7-x64-mingw32/java" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.7-x64-mingw32/tests" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.7-x64-mingw32/rakelib" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.7-x64-mingw32/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.7-x64-mingw32/ext" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.7-x64-mingw32/lib" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.7-x64-mingw32/docs" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.7-x64-mingw32/java" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.7-x64-mingw32/tests" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.7-x64-mingw32/rakelib" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.7-x64-mingw32/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.7-x64-mingw32/ext" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.7-x64-mingw32/docs" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.7-x64-mingw32/java" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.7-x64-mingw32/tests" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.7-x64-mingw32/rakelib" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/eventmachine-1.2.7-x64-mingw32/examples" />
       </excluded>
     </library>
     <library name="eyes_core (v3.15.36, ruby-2.4.9-p362) [gem]" type="rubylib">
@@ -1594,6 +1641,30 @@
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/test-unit-3.2.3/doc" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/test-unit-3.2.3/test" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/test-unit-3.2.3/sample" />
+      </excluded>
+    </library>
+    <library name="thin (v1.7.2, ruby-2.4.9-p362) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/thin/1.7.2" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/thin-1.7.2/bin" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/thin-1.7.2/ext" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/thin-1.7.2/lib" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/thin-1.7.2/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/thin/1.7.2" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/thin-1.7.2/bin" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/thin-1.7.2/ext" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/thin-1.7.2/lib" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/thin-1.7.2/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/thin-1.7.2/bin" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/thin-1.7.2/ext" />
+        <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/thin-1.7.2/example" />
       </excluded>
     </library>
     <library name="unf (v0.1.4, ruby-2.4.9-p362) [gem]" type="rubylib">
