@@ -793,6 +793,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.1" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1-x64-mingw32/bin" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1-x64-mingw32/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1-x64-mingw32/lib" />
@@ -802,6 +803,7 @@
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1-x64-mingw32/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.1" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1-x64-mingw32/bin" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1-x64-mingw32/ext" />
         <root url="file://C:/Ruby24-x64/lib/ruby/gems/2.4.0/gems/nokogiri-1.8.1-x64-mingw32/lib" />
