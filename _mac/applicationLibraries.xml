@@ -6929,6 +6929,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/unicode-display_width-1.0.5/spec" />
       </excluded>
     </library>
+    <library name="webdrivers (v2.4.0, RVM: ruby-2.4.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/webdrivers-2.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/webdrivers-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/webdrivers-2.4.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/webdrivers-2.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/webdrivers-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/webdrivers-2.4.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/webdrivers-2.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/webdrivers-2.4.0/spec" />
+      </excluded>
+    </library>
     <library name="webrick (v1.4.2, RVM: ruby-2.6.3 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
