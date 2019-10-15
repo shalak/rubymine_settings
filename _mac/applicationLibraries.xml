@@ -1,5 +1,27 @@
 <application>
   <component name="libraryTable">
+    <library name="addressable (v2.4.0, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/addressable-2.4.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/addressable-2.4.0/data" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/addressable-2.4.0/spec" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/addressable-2.4.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/addressable-2.4.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/addressable-2.4.0/data" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/addressable-2.4.0/spec" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/addressable-2.4.0/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/addressable-2.4.0/data" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/addressable-2.4.0/spec" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/addressable-2.4.0/tasks" />
+      </excluded>
+    </library>
     <library name="addressable (v2.7.0, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -36,6 +58,38 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.0/gems/archive-zip-0.12.0/spec" />
+      </excluded>
+    </library>
+    <library name="archive-zip (v0.7.0, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/archive-zip-0.7.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/archive-zip-0.7.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/archive-zip-0.7.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/archive-zip-0.7.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/archive-zip-0.7.0/spec" />
+      </excluded>
+    </library>
+    <library name="ast (v2.2.0, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/ast-2.2.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/ast-2.2.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/ast-2.2.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/ast-2.2.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/ast-2.2.0/test" />
       </excluded>
     </library>
     <library name="ast (v2.4.0, ruby-2.3.7-p456) [gem]" type="rubylib">
@@ -77,6 +131,28 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.0/gems/backports-3.15.0/test" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.0/gems/backports-3.15.0/set_version" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.0/gems/backports-3.15.0/frozen_old_spec" />
+      </excluded>
+    </library>
+    <library name="builder (v3.2.2, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/builder-3.2.2/doc" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/builder-3.2.2/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/builder-3.2.2/test" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/builder-3.2.2/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/builder-3.2.2/doc" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/builder-3.2.2/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/builder-3.2.2/test" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/builder-3.2.2/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/builder-3.2.2/doc" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/builder-3.2.2/test" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/builder-3.2.2/rakelib" />
       </excluded>
     </library>
     <library name="builder (v3.2.3, ruby-2.3.7-p456) [gem]" type="rubylib">
@@ -1103,6 +1179,28 @@
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.0/gems/rainbow-2.2.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.0/gems/rainbow-2.2.2/spec" />
+      </excluded>
+    </library>
+    <library name="rake (v12.0.0, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rake-12.0.0/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rake-12.0.0/doc" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rake-12.0.0/exe" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rake-12.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rake-12.0.0/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rake-12.0.0/doc" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rake-12.0.0/exe" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rake-12.0.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rake-12.0.0/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rake-12.0.0/doc" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rake-12.0.0/exe" />
       </excluded>
     </library>
     <library name="rake (v12.3.2, ruby-2.3.7-p456) [gem]" type="rubylib">
