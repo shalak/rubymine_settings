@@ -432,6 +432,38 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/awesome_print-1.7.0/spec" />
       </excluded>
     </library>
+    <library name="awesome_print (v1.8.0, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/awesome_print-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/awesome_print-1.8.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/awesome_print-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/awesome_print-1.8.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/awesome_print-1.8.0/spec" />
+      </excluded>
+    </library>
+    <library name="awesome_print (v1.8.0, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/awesome_print-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/awesome_print-1.8.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/awesome_print-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/awesome_print-1.8.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/awesome_print-1.8.0/spec" />
+      </excluded>
+    </library>
     <library name="bigdecimal (v1.3.0, RVM: ruby-2.4.1 [global]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1647,6 +1679,38 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/chromedriver-helper-2.1.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/chromedriver-helper-2.1.1/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/chromedriver-helper-2.1.1/concourse" />
+      </excluded>
+    </library>
+    <library name="clipboard (v1.3.3, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/clipboard-1.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/clipboard-1.3.3/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/clipboard-1.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/clipboard-1.3.3/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/clipboard-1.3.3/spec" />
+      </excluded>
+    </library>
+    <library name="clipboard (v1.3.3, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/clipboard-1.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/clipboard-1.3.3/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/clipboard-1.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/clipboard-1.3.3/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/clipboard-1.3.3/spec" />
       </excluded>
     </library>
     <library name="coderay (v1.1.2, ruby-2.3.7-p456) [gem]" type="rubylib">
